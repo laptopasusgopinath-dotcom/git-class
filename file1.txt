@@ -1,0 +1,7 @@
+My name is Gopinath
+
+push
+
+committed
+
+staged - git add .
