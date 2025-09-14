@@ -2,6 +2,6 @@ My name is Gopinath
 
 push
 
-committed
+committed - git commit - m "description"
 
 staged - git add .
